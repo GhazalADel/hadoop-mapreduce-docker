@@ -1,4 +1,4 @@
-# Hadoop MapReduce on Docker — Cloud Computing HW3 (Phase 1)
+# Hadoop MapReduce on Docker
 **Amirkabir University of Technology | Fall 2024**  
 **Course: Fundamentals of Cloud Computing**
 
