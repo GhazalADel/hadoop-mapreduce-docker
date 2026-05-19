@@ -1,0 +1,10 @@
+#!/usr/bin/env python
+import sys
+
+for line in sys.stdin:
+    line = line.strip()
+    doc, text = line.split(",", 1) 
+    words = text.split()  
+
+    for word in words:
+        print("%s\t%s" % (doc, word))
